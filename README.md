@@ -1,5 +1,5 @@
 # discordpy-selfbot
-Simple scripts to enable selfbot support in discord.py.
+Simple scripts to enable selfbot support in [discord.py](https://github.com/Rapptz/discord.py).
 
 # Scripts
 `master.sh` - Clones (or updates) and installs from the master branch, or the "development" version. Will have the latest features but may be slightly buggy.
